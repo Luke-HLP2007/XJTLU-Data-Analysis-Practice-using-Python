@@ -1,5 +1,5 @@
 # Data Analysis Practice using Python
-(XJTLU Sophomore, hustling here.)
+(XJTLU Sophomore's practice work, FYI)
 
 Python数据分析练习，包括数据读取、评估、清洗、分析、可视化等。
 
